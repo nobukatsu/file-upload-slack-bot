@@ -1,0 +1,14 @@
+{
+  "name": "file-upload-slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nobukatsu",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "0.4.2"
+  }
+}
